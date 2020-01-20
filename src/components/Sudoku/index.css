@@ -1,0 +1,18 @@
+input {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: xx-large;
+    width: 60px;
+    height: 60px;
+}
+
+.sudokoCol {
+    padding: 0% !important;
+    flex-grow: 0 !important;
+}
+
+
+.container {
+    padding-left: 306px !important;
+}
